@@ -1,0 +1,44 @@
+
+CLEANING DOCUMENTATION REPORT
+=====================================
+Generated on: 2026-09-20 11:00:12
+
+PROJECT: CodeOrbit Tech Data Analyst Internship
+TASK: Data Cleaning and Preprocessing
+
+CLEANING STEPS PERFORMED:
+=====================================
+
+1. Step 1: Data loaded successfully
+2. Step 2: Checked missing values - Found 0 total
+3. Step 3: Checked duplicates - Found 0 duplicates
+4. Removed 0 duplicate rows
+5. Saved cleaned data to cleaned_data.xlsx
+
+BEFORE & AFTER STATISTICS:
+=====================================
+Original Dataset:
+  Total Rows: 99457
+  Total Columns: 10
+  Missing Values: 0
+  Duplicate Rows: 0
+
+Cleaned Dataset:
+  Total Rows: 99457
+  Total Columns: 10
+  Missing Values: 0
+  Duplicate Rows: 0
+
+COLUMNS IN DATASET:
+=====================================
+
+ invoice_no (object)
+ customer_id (object)
+ gender (object)
+ age (int64)
+ category (object)
+ quantity (int64)
+ price (float64)
+ payment_method (object)
+ invoice_date (object)
+ shopping_mall (object)
